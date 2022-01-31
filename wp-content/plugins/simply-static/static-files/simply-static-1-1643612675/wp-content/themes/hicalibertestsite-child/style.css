@@ -1,0 +1,49 @@
+/*
+Theme Name: Hicaliber Test Site Child
+Theme URI: https://them.es/starter
+Author: Test Site
+Author URI: https://them.es/starter
+Template: hicalibertestsite
+Version: 1.0.0
+Text Domain: hicalibertestsite
+*/
+
+
+
+#header {position: fixed; width: 100%; top: 0px; z-index: 999;}
+#header.topAdmin {top: 33px;}
+
+/*== COLUMNS ==*/
+.post_container {width: 1320px !important; margin: 0 auto; position: relative; padding-top: 50px;}
+.page_alignment {display: flex;}
+.page_col_2, .page_col_3, .page_col_4, .page_col_5, .page_col_6 {display: inline-block; margin: 0 15px 30px; vertical-align: top;}
+.page_col_2 {width: 47%;}
+.page_col_3 {width: 30.5%;}
+.page_col_4 {width: 22%;}
+.page_col_5 {width: 17%;}
+.page_col_6 {width: 13.8%;}
+
+
+/*== DEFAULT PAGE TEMPLATE ==*/
+.page_section {padding: 50px 0px;}
+.page_titles {text-align: center;}
+.post_filter {text-align: center; margin: 50px 0px 55px;}
+.post_filter button {background-color: transparent; border: none;}
+.post_filter button:after {content: '|'; padding-right: 25px; position: relative; right: -19px; color: #c9c9c9;}
+.post_filter button:last-child:after{display: none;}
+.post_filter button:hover, .post_filter .is-checked {color: blue;}
+.post_layout {box-shadow: 1px 1px 10px rgb(0 0 0 / 10%);}
+.featured_image {height: 250px; background-size: cover; background-position: center center; margin-bottom: 20px;}
+.flex_column {display: flex;}
+.post_col {width: 50%;}
+.flex_column .post_text {padding-left: 25px;}
+.flex_column .featured_image {margin-bottom: 0px;}
+.post_text a {margin-top: 15px; display: block;}
+
+/*== MOBILE RESPONSIVE ==*/
+@media only screen and (max-width: 1320px){
+	.post_container {width: 90% !important;}
+	.page_col_3 {width: 30%;}
+	.page_col_4 {width: 21.5%;}
+}
+

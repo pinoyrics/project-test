@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Category Sample 2 &#8211; HiCaliber Test Project</title>
+	<atom:link href="http://github.com/pinoyrics/project-test/category/category-sample-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/pinoyrics/project-test</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 31 Jan 2022 06:54:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Aenean pretium et libero</title>
+		<link>http://github.com/pinoyrics/project-test/2022/01/31/aenean-pretium-et-libero/</link>
+					<comments>http://github.com/pinoyrics/project-test/2022/01/31/aenean-pretium-et-libero/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 06:54:55 +0000</pubDate>
+				<category><![CDATA[Category Sample 2]]></category>
+		<guid isPermaLink="false">http://github.com/pinoyrics/project-test/?p=30</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan est at tincidunt luctus. Duis nisl dui, accumsan eu hendrerit sit amet, rutrum efficitur lacus. Mauris et velit tincidunt, sodales sapien ornare, facilisis neque. Vestibulum enim nisl, faucibus malesuada pretium eget, accumsan at felis. Mauris aliquet sem non mauris gravida facilisis. Pellentesque massa nunc, tempor [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan est at tincidunt luctus. Duis nisl dui, accumsan eu hendrerit sit amet, rutrum efficitur lacus. Mauris et velit tincidunt, sodales sapien ornare, facilisis neque. Vestibulum enim nisl, faucibus malesuada pretium eget, accumsan at felis. Mauris aliquet sem non mauris gravida facilisis. Pellentesque massa nunc, tempor vel velit eu, congue rutrum lectus. Phasellus ultricies nulla vehicula, accumsan nisl quis, vehicula nisl. Morbi vehicula tellus quis lectus molestie, id vehicula purus maximus. Donec feugiat, ante et dictum ultricies, sem lorem rutrum arcu, nec faucibus ligula elit eu ante. Sed iaculis eu massa et interdum. Donec a tortor ac nisl rhoncus mattis non nec ipsum. Vestibulum tincidunt sem eget quam pharetra, quis iaculis purus pretium. Ut rhoncus suscipit mi sit amet dapibus. Aliquam et libero nibh. Curabitur libero nibh, consequat ut sollicitudin at, porttitor ut ante.</p>
+<p>Nullam imperdiet magna id scelerisque viverra. Aliquam erat volutpat. Nunc ligula risus, fringilla id ipsum nec, aliquet bibendum ante. Etiam tincidunt maximus sem at cursus. Duis molestie felis vitae nunc euismod, ac efficitur nisi bibendum. Nullam eu commodo eros. Aliquam nisi nibh, egestas sed quam fringilla, molestie condimentum quam. Nullam sagittis mollis dolor at congue. Vestibulum id massa a mi laoreet vulputate vel id tortor. Quisque et ultrices est.</p>
+<p>Vestibulum quis pharetra erat. Nulla magna est, dictum ac pulvinar quis, accumsan tempus magna. Phasellus et elit sollicitudin, dignissim mauris mattis, cursus leo. Proin pellentesque turpis sed odio interdum, quis tristique nibh lacinia. Aenean pretium et libero nec mollis. Sed a ipsum eu libero tempor auctor id non quam. Donec molestie ex commodo aliquam semper. Phasellus lacinia faucibus nibh, quis interdum ligula. Duis dictum porta laoreet. Donec feugiat, ex eu sollicitudin eleifend, neque arcu sagittis tortor, consectetur luctus purus risus at quam. Sed et pulvinar massa, ac vehicula quam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/pinoyrics/project-test/2022/01/31/aenean-pretium-et-libero/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vestibulum quis pharetra</title>
+		<link>http://github.com/pinoyrics/project-test/2022/01/31/vestibulum-quis-pharetra/</link>
+					<comments>http://github.com/pinoyrics/project-test/2022/01/31/vestibulum-quis-pharetra/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 06:54:23 +0000</pubDate>
+				<category><![CDATA[Category Sample 2]]></category>
+		<guid isPermaLink="false">http://github.com/pinoyrics/project-test/?p=27</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan est at tincidunt luctus. Duis nisl dui, accumsan eu hendrerit sit amet, rutrum efficitur lacus. Mauris et velit tincidunt, sodales sapien ornare, facilisis neque. Vestibulum enim nisl, faucibus malesuada pretium eget, accumsan at felis. Mauris aliquet sem non mauris gravida facilisis. Pellentesque massa nunc, tempor [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan est at tincidunt luctus. Duis nisl dui, accumsan eu hendrerit sit amet, rutrum efficitur lacus. Mauris et velit tincidunt, sodales sapien ornare, facilisis neque. Vestibulum enim nisl, faucibus malesuada pretium eget, accumsan at felis. Mauris aliquet sem non mauris gravida facilisis. Pellentesque massa nunc, tempor vel velit eu, congue rutrum lectus. Phasellus ultricies nulla vehicula, accumsan nisl quis, vehicula nisl. Morbi vehicula tellus quis lectus molestie, id vehicula purus maximus. Donec feugiat, ante et dictum ultricies, sem lorem rutrum arcu, nec faucibus ligula elit eu ante. Sed iaculis eu massa et interdum. Donec a tortor ac nisl rhoncus mattis non nec ipsum. Vestibulum tincidunt sem eget quam pharetra, quis iaculis purus pretium. Ut rhoncus suscipit mi sit amet dapibus. Aliquam et libero nibh. Curabitur libero nibh, consequat ut sollicitudin at, porttitor ut ante.</p>
+<p>Nullam imperdiet magna id scelerisque viverra. Aliquam erat volutpat. Nunc ligula risus, fringilla id ipsum nec, aliquet bibendum ante. Etiam tincidunt maximus sem at cursus. Duis molestie felis vitae nunc euismod, ac efficitur nisi bibendum. Nullam eu commodo eros. Aliquam nisi nibh, egestas sed quam fringilla, molestie condimentum quam. Nullam sagittis mollis dolor at congue. Vestibulum id massa a mi laoreet vulputate vel id tortor. Quisque et ultrices est.</p>
+<p>Vestibulum quis pharetra erat. Nulla magna est, dictum ac pulvinar quis, accumsan tempus magna. Phasellus et elit sollicitudin, dignissim mauris mattis, cursus leo. Proin pellentesque turpis sed odio interdum, quis tristique nibh lacinia. Aenean pretium et libero nec mollis. Sed a ipsum eu libero tempor auctor id non quam. Donec molestie ex commodo aliquam semper. Phasellus lacinia faucibus nibh, quis interdum ligula. Duis dictum porta laoreet. Donec feugiat, ex eu sollicitudin eleifend, neque arcu sagittis tortor, consectetur luctus purus risus at quam. Sed et pulvinar massa, ac vehicula quam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/pinoyrics/project-test/2022/01/31/vestibulum-quis-pharetra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
